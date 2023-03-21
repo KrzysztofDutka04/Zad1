@@ -1,3 +1,5 @@
+package podstawy;
+
 public class Zad6 {
     public static void main(String[] args) {
         int pomieszczenie1 = 3*4;
